@@ -1,0 +1,19 @@
+.ay-item{
+    background-color:rgb(152, 151, 143);
+  
+}
+.ay-span{
+ font-size: 20px;
+ font-family: algerian;
+    color: rgb(34, 34, 96);
+}
+.button{
+    float: right;
+    background-color: rgb(213, 246, 246);
+    border: none;
+    width: 100px;
+    color: black;
+    font-family: algerian;
+
+
+}
